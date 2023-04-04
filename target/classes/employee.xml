@@ -1,0 +1,12 @@
+<employees>
+    <employee id="1">
+        <firstName>Ivan</firstName>
+        <lastName>Ivanov</lastName>
+        <location>Russia</location>
+    </employee>
+    <employee id="2">
+        <firstName>John</firstName>
+        <lastName>Davis</lastName>
+        <location>Londontttt</location>
+    </employee>
+</employees>

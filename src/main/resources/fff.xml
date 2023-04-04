@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><environment>
+    <parameter>
+        <key>Browser</key>
+        <value>gggg</value>
+    </parameter>
+    <parameter>
+        <key>Environment</key>
+        <value>prod</value>
+    </parameter>
+    <parameter>
+        <key>Base URL</key>
+        <value>some url</value>
+    </parameter>
+</environment>
